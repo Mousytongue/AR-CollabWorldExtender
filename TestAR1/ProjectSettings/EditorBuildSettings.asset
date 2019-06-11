@@ -24,6 +24,6 @@ EditorBuildSettings:
     path: Assets/GoogleARCore/Examples/CloudAnchors/Scenes/CloudAnchors.unity
     guid: 83fb41cc294e74bdea57537befa00ffc
   - enabled: 0
-    path: Assets/ARRoller/ARRoller.unity
+    path: Assets/UserFiles/ARRoller.unity
     guid: b5f4f8a88ba285c49bf71229038c2dc2
   m_configObjects: {}
